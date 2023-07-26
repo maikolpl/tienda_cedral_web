@@ -1,0 +1,29 @@
+.header {
+    background-color: #ffc187;
+    color: #f00000;
+    padding: 1rem;
+  }
+  
+  
+
+  .header img {
+  position: absolute;
+  top: 15px; /* Ajusta esta propiedad según la distancia desde la parte superior que desees */
+  right: 10px; /* Ajusta esta propiedad según la distancia desde la izquierda que desees */
+  width: 30px; /* Ajusta el ancho del logo según tus necesidades */
+  height: auto; /* Ajusta la altura del logo según el ancho especificado */
+  }
+  
+  .header nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .header nav li {
+    margin-right: 1rem;
+  }
+  
+  .header nav li a {
+    color: #000000;
+    text-decoration: none;
+  }
