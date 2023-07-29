@@ -21,7 +21,7 @@ function App() {
           Cedral{count}
         </button>
         <p>
-         Tienda Autoservicio
+         Tienda MAikol
         </p>
       </div>
     
